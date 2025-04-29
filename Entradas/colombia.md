@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Colombia
 
 ## Descripcion 
@@ -16,6 +15,3 @@ playas muy hermosas, ambiente muy folclorico, demasiadas tradiciones y mucha his
 ## Informacion
 
 pais con mucha historia, con mucho folclor, muchos paisajes hermosos
-=======
-### Colombia, Bogota
->>>>>>> España
